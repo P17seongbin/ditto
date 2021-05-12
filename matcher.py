@@ -17,7 +17,7 @@ from tqdm import tqdm
 from apex import amp
 from scipy.special import softmax
 
-sys.path.insert(0, "Snippext_public")
+sys.path.insert(0,"Snippext_public")
 from snippext.model import MultiTaskNet
 from ditto.exceptions import ModelNotFoundError
 from ditto.dataset import DittoDataset

@@ -267,33 +267,33 @@
   "name": "wdc_all_title_small",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "data/wdc/all/title/train.txt.small",
-  "validset": "data/wdc/all/title/valid.txt.small",
-  "testset": "data/wdc/all/title/test.txt"
+  "trainset": "data/wdc/all/train.txt.small",
+  "validset": "data/wdc/all/valid.txt.small",
+  "testset": "data/wdc/all/test.txt"
 },
 {
   "name": "wdc_all_title_medium",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "data/wdc/all/title/train.txt.medium",
-  "validset": "data/wdc/all/title/valid.txt.medium",
-  "testset": "data/wdc/all/title/test.txt"
+  "trainset": "data/wdc/all/train.txt.medium",
+  "validset": "data/wdc/all/valid.txt.medium",
+  "testset": "data/wdc/all/test.txt"
 },
 {
   "name": "wdc_all_title_large",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "data/wdc/all/title/train.txt.large",
-  "validset": "data/wdc/all/title/valid.txt.large",
-  "testset": "data/wdc/all/title/test.txt"
+  "trainset": "data/wdc/all/train.txt.large",
+  "validset": "data/wdc/all/valid.txt.large",
+  "testset": "data/wdc/all/test.txt"
 },
 {
   "name": "wdc_all_title_xlarge",
   "task_type": "classification",
   "vocab": ["0", "1"],
-  "trainset": "data/wdc/all/title/train.txt.xlarge",
-  "validset": "data/wdc/all/title/valid.txt.xlarge",
-  "testset": "data/wdc/all/title/test.txt"
+  "trainset": "data/wdc/all/train.txt.xlarge",
+  "validset": "data/wdc/all/valid.txt.xlarge",
+  "testset": "data/wdc/all/test.txt"
 },
 {
   "name": "wdc_shoes_title_small",
